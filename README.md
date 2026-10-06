@@ -3,10 +3,8 @@
 ## Project Overview  
 
 P2P Transaction & Trust Analytics is a Power BI analytics project focused on understanding transaction performance, risk, disputes, user trust, and repeat usage within a peer-to-peer escrow marketplace.  
-
 The analysis follows the complete transaction journey from transaction creation to funds release, while also examining the factors associated with failed transactions, disputes, financial losses, user trust, and customer retention.  
-
-The project consists of three interconnected dashboards:  
+The project consists of three interconnected dashboards:
 
 1. Transaction Experience  
 
