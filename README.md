@@ -269,3 +269,5 @@ The key takeaway is that analytics should move beyond reporting what happened to
 The transaction journey was modelled across the following stages:
 
 **Created → Payment Attempted → Payment Confirmed → Delivery Marked → Buyer Confirmed → Funds Released**
+
+https://app.powerbi.com/view?r=eyJrIjoiYjdiODYxZjEtNDRlNy00NjgyLWJjZWQtZTA4MWJlYzc2NDVlIiwidCI6ImM0Njk0ZTkyLWUyYWQtNGJkOC1hZWE3LTA5MzYyOGU2YWU0ZSJ9
