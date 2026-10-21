@@ -6,6 +6,7 @@
 - [Business Questions Answered](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#business-questions-answered)
 - [Data Source](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#data-source)
 - [Tools and Methodology](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#tools-and-methodology)
+- [Summary of Findings](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#summary-of-findings)
 - [Key Insights](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#key-insights)
 - [Recommendations](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#recommendations)
 - [Limitations](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#limitations)
