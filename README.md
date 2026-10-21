@@ -119,7 +119,8 @@ Three dashboards were developed with interactive filters for dimensions such as:
 
 The dashboards were designed around business questions rather than simply presenting charts, making the analysis easier to interpret and act upon.  
 
-<img width="1199" height="1568" alt="image (4)" src="https://github.com/user-attachments/assets/25261688-e63b-4be2-9461-c3f9acf8372e" />
+<img width="1203" height="1833" alt="image (6)" src="https://github.com/user-attachments/assets/f3cfcac6-7343-4611-91b5-3939bb3b5924" />
+
 
 
 ## Summary of Findings
