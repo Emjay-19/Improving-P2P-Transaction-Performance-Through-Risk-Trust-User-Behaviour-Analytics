@@ -1,5 +1,16 @@
 # Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics  
 
+## Table of Contents
+- [Project Overview](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#project-overview)
+- [Problem Statement](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#problem-statement)
+- [Business Questions Answered](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#business-questions-answered)
+- [Data Source](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#data-source)
+- [Tools and Methodology](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#tools-and-methodology)
+- [Key Insights](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#key-insights)
+- [Recommendations](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#recommendations)
+- [Limitations](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#limitations)
+- [Conclusion](https://github.com/Emjay-19/Improving-P2P-Transaction-Performance-Through-Risk-Trust-User-Behaviour-Analytics/blob/main/README.md#conclusion)
+
 ## Project Overview  
 
 P2P Transaction & Trust Analytics is a Power BI analytics project focused on understanding transaction performance, risk, disputes, user trust, and repeat usage within a peer-to-peer escrow marketplace.  
